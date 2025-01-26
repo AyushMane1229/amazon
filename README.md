@@ -17,7 +17,7 @@ A simple web-based clone of Amazon, built using **HTML** and **CSS**. This proje
 
 ## 🖼️ Screenshots
 
-![Screenshot of the project](screenshot.png)  
+![Screenshot of the project](https://github.com/AyushMane1229/amazon/blob/main/amazon_screenshot.jpg?raw=true) 
 
 
 ## 🛠️ Installation
